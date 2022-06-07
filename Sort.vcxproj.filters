@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SelectionSort.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="BubbleSortcpp.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
